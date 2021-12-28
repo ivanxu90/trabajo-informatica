@@ -1,2 +1,2 @@
 # trabajo-informatica
-computer boy
+Mi trabajo de informática realizado con Construct 3
